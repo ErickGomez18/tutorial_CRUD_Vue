@@ -1,22 +1,29 @@
 {
   "productos": [
     {
-      "id": 1,
+      "id": "1",
       "nombre": "Laptop",
       "precio": 8500,
       "descripcion": "Laptop para trabajo escolar"
     },
     {
-      "id": 2,
+      "id": "2",
       "nombre": "Mouse",
       "precio": 250,
       "descripcion": "Mouse inalámbrico"
     },
     {
-      "id": 3,
+      "id": "3",
       "nombre": "Teclado",
       "precio": 500,
       "descripcion": "Teclado mecánico"
+    },
+    {
+      "nombre": "Audífonos",
+      "precio": 350,
+      "descripcion": "Audífonos para computadora",
+      "id": "dssAOIrztUA"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
