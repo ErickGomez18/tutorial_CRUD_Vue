@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop",
+      "precio": 8500,
+      "descripcion": "Laptop para trabajo escolar"
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse",
+      "precio": 250,
+      "descripcion": "Mouse inalámbrico"
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado",
+      "precio": 500,
+      "descripcion": "Teclado mecánico"
+    }
+  ]
+}
