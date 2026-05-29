@@ -1,12 +1,6 @@
 {
   "productos": [
     {
-      "nombre": "Audífonos",
-      "precio": 350,
-      "descripcion": "Audífonos para computadora",
-      "id": "1"
-    },
-    {
       "id": "2",
       "nombre": "Mouse",
       "precio": 250,
