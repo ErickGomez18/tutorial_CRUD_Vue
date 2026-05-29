@@ -1,10 +1,10 @@
 {
   "productos": [
     {
-      "id": "1",
-      "nombre": "Laptop",
-      "precio": 8500,
-      "descripcion": "Laptop para trabajo escolar"
+      "nombre": "Audífonos",
+      "precio": 350,
+      "descripcion": "Audífonos para computadora",
+      "id": "1"
     },
     {
       "id": "2",
